@@ -13,7 +13,7 @@ import queue
 import threading
 
 #prozess namen xxxxx 64 bit 
-PROCESS_NAME = "xxxxxxx.exe"
+PROCESS_NAME = "lotroclient64.exe"
 
 # pointer chain für casten status # is_casting / casting 1 // nicht 0
 addresses_zero = (
