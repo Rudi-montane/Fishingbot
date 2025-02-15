@@ -12,8 +12,8 @@ import tkinter as tk
 import queue
 import threading
 
-#prozess namen lotro 64 bit 
-PROCESS_NAME = "lotroclient64.exe"
+#prozess namen xxxxx 64 bit 
+PROCESS_NAME = "xxxxxxx.exe"
 
 # pointer chain für casten status # is_casting / casting 1 // nicht 0
 addresses_zero = (
