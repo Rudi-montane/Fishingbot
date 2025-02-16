@@ -1,0 +1,5 @@
+pymem
+psutil
+pyautogui
+keyboard
+pywin32
