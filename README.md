@@ -1,6 +1,6 @@
 #  fishing bot readme
 
-fishing bot der pointeradressen ausliesst und fischt in python
+fishing bot wich reads pointers
 # requirements
 python 3.9 +  
 admin priv
