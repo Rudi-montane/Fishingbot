@@ -1,6 +1,6 @@
-#  fishing bot readme
+#  fishing bot lotro
 
-fishing bot wich reads pointers
+simplr fishing bot wich reads pointers and handels akordingly
 # requirements
 python 3.9 +  
 admin priv
